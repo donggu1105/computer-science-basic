@@ -7,9 +7,6 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "../CMakeLists.txt"
-  "CMakeFiles/3.19.2/CMakeCCompiler.cmake"
-  "CMakeFiles/3.19.2/CMakeSystem.cmake"
   "/Users/joeykang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeCCompiler.cmake.in"
   "/Users/joeykang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeCCompilerABI.c"
   "/Users/joeykang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeCInformation.cmake"
@@ -80,6 +77,9 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/Users/joeykang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Platform/Darwin.cmake"
   "/Users/joeykang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Platform/UnixPaths.cmake"
   "/Users/joeykang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/ProcessorCount.cmake"
+  "CMakeFiles/3.19.2/CMakeCCompiler.cmake"
+  "CMakeFiles/3.19.2/CMakeSystem.cmake"
+  "/Users/joeykang/컴퓨터 공학 기초/소프트웨어 베이직/untitled/CMakeLists.txt"
   )
 
 # The corresponding makefile is:

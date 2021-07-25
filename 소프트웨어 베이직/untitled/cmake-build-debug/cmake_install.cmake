@@ -1,4 +1,4 @@
-# Install script for directory: /Users/joeykang/CLionProjects/untitled
+# Install script for directory: /Users/joeykang/컴퓨터 공학 기초/소프트웨어 베이직/untitled
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/joeykang/CLionProjects/untitled/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/joeykang/컴퓨터 공학 기초/소프트웨어 베이직/untitled/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
