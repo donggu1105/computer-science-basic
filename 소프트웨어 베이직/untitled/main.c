@@ -11,7 +11,7 @@ int a; // 정적변수로 선언된것은 기본적으로 0
  * bool : 1bit
  * char : 1byte (8bit)
  * */
-수
+
 int main(void) {
 //    int a = 7;
     printf("The number is %d \n", a);
